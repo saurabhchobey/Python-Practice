@@ -23,4 +23,7 @@ else:
             e=e+1
             d[i]=e
 if c==d:
-    print("yes")
+    print("yes anagram")
+else:
+    print("not anagram")
+        
