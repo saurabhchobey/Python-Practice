@@ -2,7 +2,7 @@ k=16
 tim=1
 for i in range(0,5):
 	for j in range(0,k):
-		print(end="*")
+		print(end= "*")
 k=k-4
     
     for j in range(0,tim):
